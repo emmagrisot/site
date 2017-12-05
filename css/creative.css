@@ -288,8 +288,8 @@ header .header-content .header-content-inner p {
   color: grey;
 }
 .no-gutter > [class*='col-'] {
-  padding-right: 0;
-  padding-left: 0;
+ /* padding-right: 0;
+  padding-left: 0;*/
 }
 .btn-default {
   color: #222222;
